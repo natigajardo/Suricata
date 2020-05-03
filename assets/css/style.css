@@ -1,0 +1,53 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.bg-pink {
+  background-color: #E83E8C;
+}
+
+.fuente-bold {
+  font-weight: 700;
+}
+
+.fuente-regular {
+  font-weight: 400;
+}
+
+nav img {
+  height: 53px;
+  width: 132px;
+}
+
+.colorgrey {
+  color: #707070;
+}
+
+.color-grey-dark {
+  color: #373A3C;
+}
+
+.color-celeste {
+  color: #1C7CD5;
+}
+
+.text-size1 {
+  font-size: 17px;
+}
+
+.text-size2 {
+  font-size: 16px;
+}
+
+.text-size3 {
+  font-size: 11px;
+}
+
+h3 {
+  font-size: 40px;
+}
+
+.logo-footer {
+  width: 53px;
+  height: 100px;
+}
